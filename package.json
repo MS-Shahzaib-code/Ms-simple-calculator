@@ -1,6 +1,6 @@
 {
-  "name": "dm97-calculator",
-  "version": "1.0.0",
+  "name": "ms-99-calculator",
+  "version": "1.0.1",
   "description": "a simple calculator with typescript , node.js and Inquirer",
   "main": "index.js",
   "type": "module",
